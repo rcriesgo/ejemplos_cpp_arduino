@@ -4,24 +4,3 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-Screen_h	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define Screen_h$/;"	macro	line:2
-CLK	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define CLK /;"	macro	line:11
-LAT	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define LAT /;"	macro	line:12
-OE	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define OE /;"	macro	line:13
-A	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define A /;"	macro	line:14
-B	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define B /;"	macro	line:15
-C	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define C /;"	macro	line:16
-Screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^class Screen$/;"	class	line:22
-matrix	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    RGBmatrixPanel *matrix;$/;"	member	line:29	class:Screen
-black	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-yellow	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-darkyellow	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-red	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-white	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-pink	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^    uint16_t black,yellow, darkyellow,red,white, pink,$/;"	member	line:31	class:Screen
-palePink	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
-blue	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
-cyan	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
-orange	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
-darkOrange	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
-green	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen

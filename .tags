@@ -1,12 +1,6 @@
 Screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^Screen::Screen()$/;"	function	line:10	class:Screen	signature:()
 begin	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^void Screen::begin(){$/;"	function	line:35	class:Screen	signature:()
 process	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^void Screen::process(){$/;"	function	line:47	class:Screen	signature:()
-screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^Screen* screen;$/;"	variable	line:9
-setup	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^void setup() {$/;"	function	line:11	signature:()
-loop	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^void loop() {$/;"	function	line:26	signature:()
-Screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^Screen::Screen()$/;"	function	line:10	class:Screen	signature:()
-begin	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^void Screen::begin(){$/;"	function	line:35	class:Screen	signature:()
-process	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^void Screen::process(){$/;"	function	line:47	class:Screen	signature:()
 Screen_h	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define Screen_h$/;"	macro	line:2
 CLK	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define CLK /;"	macro	line:11
 LAT	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^#define LAT /;"	macro	line:12
@@ -28,3 +22,9 @@ cyan	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Scree
 orange	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
 darkOrange	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
 green	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.h	/^            palePink, blue, cyan, orange, darkOrange, green;$/;"	member	line:32	class:Screen
+screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^Screen* screen;$/;"	variable	line:10
+setup	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^void setup() {$/;"	function	line:12	signature:()
+loop	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/main.cpp	/^void loop() {$/;"	function	line:27	signature:()
+Screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^Screen::Screen()$/;"	function	line:10	class:Screen	signature:()
+begin	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^void Screen::begin(){$/;"	function	line:35	class:Screen	signature:()
+process	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/src/Screen.cpp	/^void Screen::process(){$/;"	function	line:42	class:Screen	signature:()
