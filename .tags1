@@ -4,3 +4,6 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Screen	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^Screen::Screen()$/;"	function	line:10	class:Screen	signature:()
+begin	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^void Screen::begin(){$/;"	function	line:35	class:Screen	signature:()
+process	/home/toyos/gitroot/ejemplos_cpp_arduino/MatrixLedRgb16x32/Tetris/Screen.cpp	/^void Screen::process(){$/;"	function	line:47	class:Screen	signature:()
