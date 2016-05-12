@@ -10,7 +10,5 @@ void setup(){
 void loop()
 {
   gestorVisor->loop();
-  if (gestorVisor->getEstado()==GestorVisor::wewe){
-
-  }
+  
 }
